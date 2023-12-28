@@ -30,7 +30,7 @@ body{
 }   
 
 header{
-    max-width: calc(40% - 3em);
+    width: max(50%, 100%);
     text-align: center;
     color: var(--Grayish-Blue);
 }
